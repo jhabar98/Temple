@@ -5,12 +5,13 @@
 
 .container-fluid {
   display: block;
-  text-align: center;
+  /* text-align: center; */
   background: #6b2fe2;
   height: 50px;
   color: aliceblue;
   font-size: 20px;
   flex-wrap: wrap;
+  /* justify-content: last baseline; */
   /* position: fixed; */
 }
 
@@ -62,6 +63,7 @@ nav ul {
   height: 56px;
   background-color: white;
   flex-wrap: wrap;
+  justify-content: space-evenly;
   /* position: fixed; */
 }
 
