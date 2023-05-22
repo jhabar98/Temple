@@ -125,7 +125,7 @@ nav a:hover {
 
 }
 
-.image {
+.image{
   width: 100%;
   height: auto;
 }
@@ -205,5 +205,10 @@ html {
 
 ::-webkit-scrollbar {
     width: 0px;
-    background: transparent; /* make scrollbar transparent */
+    background: transparent; 
+    /* make scrollbar transparent */
 }
+.container{ height: 20px;
+width: 100%;}
+ .right{ background-color: #6b2fe2;}
+ .left{background-color: #e30eb5;}
