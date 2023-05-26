@@ -151,6 +151,8 @@ nav a:hover {
 .main {
   margin-top: 50px;
   font-family: 'Courier New', Courier, monospace;
+  /* display: flex; */
+  
 }
 
 .contect {
@@ -208,7 +210,3 @@ html {
     background: transparent; 
     /* make scrollbar transparent */
 }
-.container{ height: 20px;
-width: 100%;}
- .right{ background-color: #6b2fe2;}
- .left{background-color: #e30eb5;}
